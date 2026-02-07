@@ -1,5 +1,3 @@
----
-
 # Pharma Intelligence Agent
 
 **AI-Powered Monitoring and Analysis of Pharma & Life Sciences Intelligence**
