@@ -1,8 +1,3 @@
-# WebscraperAI
-
-
-Here’s a **project-submission quality README** — written the way evaluators expect (clear architecture, novelty, evaluation, and future scope). You can paste this directly into `README.md`.
-
 ---
 
 # Pharma Intelligence Agent
