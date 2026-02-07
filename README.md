@@ -344,5 +344,3 @@ Planned improvements:
 MIT License
 
 ---
-
-If you want to **push this project from “good” to “top-tier project”**, I can show you **one small feature to add that will massively impress evaluators** (takes ~45 minutes to implement).
