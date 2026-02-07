@@ -334,6 +334,6 @@ Planned improvements:
 
 ## 17. License
 
-MIT License
+Apache License
 
 ---
