@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Virtual envs
+venv/
+.env/
+.venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Cache
+.cache/
+
+# openrouter stuff
+OPENROUTER_API_KEY=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
+OPENROUTER_MODEL=qwen/qwen3-coder:free
+OPENROUTER_APP_TITLE=WebscraperAI
